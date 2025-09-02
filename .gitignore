@@ -1,0 +1,29 @@
+# Python
+*.pyc
+_pycache_/
+
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Django
+db.sqlite3
+/staticfiles/
+media/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+ ../Weather-app/
+        ../django notes.txt
+        ../petshop.zip
+        ../petshop/
+        ../react/
+        ../sru_server/
+        ../todo/
